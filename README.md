@@ -1,8 +1,6 @@
 # Rinvex Addresses
 
-⚠️ This package is abandoned and no longer maintained. No replacement package was suggested. ⚠️
-
-👉 If you are interested to step on as the main maintainer of this package, please [reach out to me](https://twitter.com/omranic)!
+Forked from the abandoned: https://github.com/rinvex/laravel-addresses
 
 ---
 
